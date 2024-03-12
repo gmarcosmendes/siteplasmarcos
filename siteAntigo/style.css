@@ -1,0 +1,357 @@
+@charset "utf-8";
+#header {
+	font-family: federo;
+	font-style: normal;
+	font-weight: 400;
+	background-image: url(images/logo.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 225px;
+	width: 597px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 50px;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+#header2 {
+	background-image: url(images/inj%20plastico.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	height: 63px;
+	width: 249px;
+	top: 175px;
+	right: auto;
+	left: 767px;
+	position: absolute;
+}
+#empresa {
+	display: block;
+	position: absolute;
+	height: 40px;
+	width: 131px;
+	left: 100px;
+	top: 325px;
+}
+#serviços {
+	display: block;
+	height: 40px;
+	width: 126px;
+	position: absolute;
+	left: 257px;
+	top: 325px;
+}
+#produtos {
+	display: block;
+	height: 40px;
+	width: 136px;
+	position: absolute;
+	left: 415px;
+	top: 325px;
+}
+#infotec {
+	display: block;
+	height: 40px;
+	width: 290px;
+	position: absolute;
+	left: 580px;
+	top: 325px;
+}
+#contato {
+	display: block;
+	height: 40px;
+	width: 123px;
+	position: absolute;
+	left: 900px;
+	top: 325px;
+}
+#facebook {
+	background-repeat: no-repeat;
+	display: block;
+	height: 40px;
+	width: 40px;
+	left: 856px;
+	top: 105px;
+	position: absolute;
+}#instagram {
+	display: block;
+	height: 40px;
+	width: 40px;
+	left: 906px;
+	top: 105px;
+	position: absolute;
+}
+#youtube {
+	display: block;
+	height: 40px;
+	width: 40px;
+	left: 956px;
+	top: 105px;
+	position: absolute;
+}
+#footer {
+	display: block;
+	height: 50px;
+	border-left: 0px groove #000000;
+	border-right: 0px groove #000000;
+	border-bottom: 0px groove #000000;
+	border-top: 3px solid #000000;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	margin-top: 100px;
+	background-color: #0193CF;
+}
+#textoindex {
+	background-color: #FFFFFF;
+	display: block;
+	padding: 10px;
+	height: auto;
+	width: 350px;
+	border: thin solid #000000;
+	position: absolute;
+	left: 100px;
+	border-radius: 5px;
+	top: 395px;
+}
+#textoindex2 {
+	background-color: #FFFFFF;
+	display: block;
+	padding: 10px;
+	height: 233px;
+	width: 300px;
+	border: thin solid #000000;
+	position: absolute;
+	left: 500px;
+	border-radius: 5px;
+	top: 395px;
+}
+#textoservices1 {
+	background-color: #FFFFFF;
+	display: block;
+	height: auto;
+	width: auto;
+	border: thin solid #000000;
+	position: absolute;
+	left: 100px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	top: 395px;
+}
+#textoservices2 {
+	background-color: #FFFFFF;
+	display: block;
+	padding: 10px;
+	height: auto;
+	width: 200px;
+	border: thin solid #000000;
+	position: absolute;
+	left: 100px;
+	border-radius: 5px;
+	top: 430px;
+}
+#textoservices3 {
+	background-color: #FFFFFF;
+	display: block;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	height: auto;
+	border: thin solid #000000;
+	position: absolute;
+	left: 350px;
+	top: 395px;
+	border-radius: 5px;
+	width: auto;
+}
+#textoservices4 {
+	display: block;
+	padding: 10px;
+	height: auto;
+	width: 200px;
+	border-width: thin;
+	border-style: solid;
+	position: absolute;
+	left: 350px;
+	top: 430px;
+	border-top-color: #000000;
+	border-radius: 5px;
+	background-color: #FFFFFF;
+}
+#textoservices5 {
+	background-color: #FFFFFF;
+	display: block;
+	height: auto;
+	width: auto;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	border: thin solid #000000;
+	position: absolute;
+	left: 600px;
+	border-radius: 5px;
+	top: 395px;
+}
+#textoservices6 {
+	background-color: #FFFFFF;
+	display: block;
+	padding: 10px;
+	height: auto;
+	width: 200px;
+	border: thin solid #000000;
+	position: absolute;
+	left: 600px;
+	border-radius: 5px;
+	top: 430px;
+}
+#textoinfo1 {
+	display: block;
+	height: auto;
+	width: auto;
+	position: absolute;
+	left: 100px;
+	top: 395px;
+}
+#textoinfo2 {
+	display: block;
+	height: auto;
+	width: auto;
+	position: absolute;
+	left: 100px;
+	top: 545px;
+}
+#textoinfo3 {
+	position: absolute;
+	left: 230px;
+	top: 440px;
+	width: 230px;
+}
+#textoinfo4 {
+	display: block;
+	position: absolute;
+	left: 230px;
+	top: 590px;
+	width: 210px;
+}
+#textoinfo5 {
+	display: block;
+	position: absolute;
+	left: 503px;
+	top: 395px;
+	visibility: visible;
+}
+#textoinfo6 {
+	display: block;
+	position: absolute;
+	left: 500px;
+	top: 545px;
+	visibility: visible;
+}
+#textoinfo7 {
+	display: block;
+	position: absolute;
+	left: 630px;
+	top: 440px;
+	width: 220px;
+}
+#textoinfo8 {
+	display: block;
+	position: absolute;
+	left: 630px;
+	top: 590px;
+	width: 330px;
+}
+#formulario {
+	display: table;
+	position: absolute;
+	left: 100px;
+	top: 395px;
+	width: 300px;
+	border: thin solid #000000;
+	border-radius: 5px;
+	height: auto;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 8px;
+	background-color: #F0F0F0;
+}
+.bordaform {
+	border:#0000 solid 3px;
+}
+#textoprodutos1 {
+	background-color: #FFFFFF;
+	display: block;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	height: auto;
+	width: 200px;
+	border: thin solid #000000;
+	position: absolute;
+	left: 100px;
+	border-radius: 5px;
+	top: 395px;
+	padding-top: 10px;
+}
+#textoprodutos2 {
+	background-color: #FFFFFF;
+	display: block;
+	padding: 10px;
+	height: 200px;
+	width: 400px;
+	border: thin solid #000000;
+	position: absolute;
+	left: 400px;
+	border-radius: 5px;
+	top: 395px;
+}
+#textoprodutos3 {
+	background-color: #FFFFFF;
+	display: block;
+	padding: 5px;
+	height: auto;
+	width: 901px;
+	border: thin solid #000000;
+	position: absolute;
+	left: 350px;
+	border-radius: 5px;
+	top: 395px;
+	margin-bottom: 5px;
+}
+#textocontato2 {
+	background-color: #FFFFFF;
+	display: block;
+	padding: 10px;
+	height: auto;
+	width: auto;
+	border: thin solid #000000;
+	position: absolute;
+	left: 430px;
+	border-radius: 5px;
+	top: 395px;
+}
+#mapa {
+	display: block;
+	height: 200px;
+	width: 400px;
+	border-width: 2px;
+	border-style: solid;
+	position: absolute;
+	left: 720px;
+	border-radius: 5px;
+	top: 395px;
+}
